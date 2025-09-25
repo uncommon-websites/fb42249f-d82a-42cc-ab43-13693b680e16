@@ -15,7 +15,15 @@
 	imageSrc="https://www.unc.mn/image-placeholder.svg"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders" 
+	logoUrls={[
+		'https://cdn.brandfetch.io/salesforce.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/airbnb.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/hubspot.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/slack.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
