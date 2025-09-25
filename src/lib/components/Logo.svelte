@@ -1,11 +1,9 @@
 <script lang="ts">
-	// Types
 	import type { HTMLAttributes } from "svelte/elements";
-
-	// Props
 	const props: HTMLAttributes<SVGSVGElement> = $props();
 </script>
 
-<svg class={props.class} viewBox="0 0 64 64">
-	<rect width="64" height="64" rx="12" ry="12" fill="currentColor" />
+<svg viewBox="0 0 66 65" fill="none" xmlns="http://www.w3.org/2000/svg" class="" {...props}>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.0354 13.173H0.658203V0H65.4257V64.7675H52.2527V23.5853L11.9021 63.9358L2.58738 54.6211L44.0354 13.173Z" fill="currentColor"/>
 </svg>
+
