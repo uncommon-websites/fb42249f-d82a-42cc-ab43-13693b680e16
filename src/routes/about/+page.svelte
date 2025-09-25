@@ -26,7 +26,6 @@
 </script>
 
 <SecondaryHero
-	generating
 	title="Solving world hunger"
 	subtitle="one step at a time"
 	imageSrc="https://www.unc.mn/image-placeholder.svg"
@@ -34,12 +33,10 @@
 
 <!-- Story Section -->
 <Story
-	generating
 	paragraphs={[
-		"We started in 2018 with a simple goal: make helpful tech that people actually need. While many chase profits, we chose to do things differently.",
-		"Beyond making good products, we care about doing the right thing, being kind to our planet, and making sure everyone can use what we build. That's our compass.",
-		"From day one, we've asked ourselves: 'Does this actually help people?' This question gets us through tough calls and shapes who we are. We're playing the long game here.",
-		"We think about how our work affects real people's lives. We build tech that brings people together, keeps your information safe, and treats everyone fairly. When we stick to these basics, good things happen."
+		"It started during March Madness 2019. Our founder was managing a company fantasy league when a last-second buzzer-beater changed everything—except the manual scoring system couldn't keep up. Players were frustrated, arguments broke out over stat discrepancies, and half the league quit before the championship. That night, staring at spreadsheets until 2 AM, we realized millions of fantasy commissioners face this same nightmare: the tools that should bring people together were driving them apart.",
+		"We knew fantasy sports could be better. While competitors focused on daily fantasy and big-money tournaments, we obsessed over the real problem—keeping traditional leagues alive and engaging. Our team built a proprietary player valuation algorithm that processes real-time game data instantly, eliminating manual scoring errors and providing insights that make every matchup thrilling. We started with college basketball because March Madness represents pure passion, the kind of energy that keeps fantasy leagues buzzing year-round.",
+		"Today, we're transforming how 5 million fantasy players experience their favorite sport. Our platform doesn't just track stats—it predicts breakout performances, suggests strategic moves, and keeps leagues competitive from tip-off to championship. We're capturing a piece of the $1.2 billion fantasy sports market by solving the fundamental problem that drives commissioners crazy: turning administrative headaches into competitive advantages. This is just the beginning of making fantasy sports as thrilling as the games themselves."
 	]}
 />
 
