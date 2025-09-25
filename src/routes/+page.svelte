@@ -83,5 +83,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction 
+	title="Run the only league that doesn't lose steam by week two"
+	subtitle="March Madness moves fast"
+	description="Stay ahead with real-time scoring, automated updates, and our proprietary player valuation algorithm that keeps every pick competitive. Capture your share of the $1.2B fantasy market—without adding hours of admin work. Worried about switching? Onboarding is quick and compatible with any league data you're already using."
+	imageSrc="/generated/image-a-cheerful-professional-man-in-a-modern-.webp"
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Launch your league free before Selection Sunday",
+			variant: "primary"
+		},
+		{
+			href: "/demo",
+			label: "See live scoring demo",
+			variant: "secondary"
+		}
+	]}
+/>
